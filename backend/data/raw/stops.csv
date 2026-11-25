@@ -1,0 +1,55 @@
+stop_name,area,landmark,latitude,longitude,position,routes
+Railway Station,Central Nanded,Hazur Sahib Nanded railway station,19.1593,77.3099,OpenStreetMap,1 3 6 7N 8 9N 13
+Central Bus Stand,Central Nanded,"MSRTC Nanded bus stand, Mill Gate Road",19.1595,77.3067,OpenStreetMap,1 2 3 4 7N 9 9N 11 12 17
+Kalamandir,Central Nanded,Kalamandir chowk at the head of Doctor Lane,19.1575,77.3076,OpenStreetMap,1 2 4 11 12
+Vazirabad,Central Nanded,"Vazirabad chowk by the SP office, near the Shivaji Maharaj statue (Shivaji Putla)",19.1547,77.3097,OpenStreetMap,1 2 4 7N 11 12 13
+Government Hospital,Central Nanded,"Shri Guru Gobind Singh Ji Memorial Government Hospital, Station Road",19.1552,77.3114,OpenStreetMap,6
+Govardhan Ghat,Central Nanded,Govardhan Ghat bridge road over the Godavari,19.149,77.3085,OpenStreetMap,1 4 7N
+Shivaji Nagar,Central Nanded,Shivaji Nagar main road (Guru Gobind Singh Ji Road),19.1625,77.3056,OpenStreetMap,4 9 9N 11 17
+Lalbadi,Central Nanded,"Lalbadi, Mahavir Society",19.1633,77.302,OpenStreetMap,11
+ITI Corner,Central Nanded,"ITI Corner and Mahatma Phule Market, start of VIP Road",19.1689,77.3055,OpenStreetMap,4 9 9N 14 17
+Yeshwant College,Central Nanded,Yeshwant Mahavidyalaya on VIP Road,19.1689,77.3083,OpenStreetMap,17
+Vivek Nagar,Central Nanded,Vivek Nagar corner on Vazirabad Road,19.1727,77.3046,OpenStreetMap,4 9 14
+Shrinagar,Central Nanded,Shrinagar market on Vazirabad Road,19.177,77.3044,OpenStreetMap,4 9 9N 14
+Chikhalwadi Corner,Old City,Chikhalwadi Corner on the Gurudwara road,19.1529,77.3144,OpenStreetMap,2 12
+Gurudwara Gate,Old City,Gate No. 2 of Takht Sachkhand Sri Hazur Sahib,19.1518,77.3164,OpenStreetMap,2 6 10 12
+Juna Mondha,Old City,Old grain market near the Clock Tower,19.1497,77.3206,approximate,2 6
+Nagina Ghat,Old City,Gurudwara Nagina Ghat on the Godavari bank,19.147,77.319,approximate,2
+Itwara Market,Old City,Itwara bazaar near the banana market,19.1485,77.3244,OpenStreetMap,6 12
+Degloor Naka,Old City,"Madina Chowk on the Degloor road, near Hyder Bagh",19.1518,77.3316,OpenStreetMap,6 12
+Hingoli Gate,East Nanded,Hingoli Gate flyover and subway,19.1624,77.3167,OpenStreetMap,3 6 8 10
+Samrat Nagar,East Nanded,"Annabhau Sathe Chowk, Samrat Nagar",19.1623,77.3195,OpenStreetMap,6 10
+Nava Mondha,East Nanded,"Nava Mondha market, opposite the MSEB office",19.1646,77.3178,approximate,8
+Maltekdi,East Nanded,"Gurudwara Maltekdi Sahib, near Maltekdi railway station",19.1661,77.3298,OpenStreetMap,6
+Vasant Nagar,East Nanded,Vasant Nagar main road,19.1715,77.3177,OpenStreetMap,8 17
+Hingoli Naka,East Nanded,Maharana Pratap Chowk on the Hingoli road,19.1713,77.3219,OpenStreetMap,3 10 17
+Anand Nagar,East Nanded,Anand Nagar chowk on Bhagya Nagar Road,19.173,77.3155,OpenStreetMap,8 17
+Vidyut Nagar,East Nanded,"Vidyut Nagar, near Raj Mall",19.1742,77.3138,OpenStreetMap,8 17
+Bhagya Nagar,East Nanded,Bhagya Nagar kaman (arch),19.1769,77.3096,OpenStreetMap,8
+MGM College,East Nanded,MGM's College of Engineering,19.179,77.327,OpenStreetMap,3 10
+Airport,East Nanded,"Shri Guru Gobind Singh Ji Airport, terminal approach road",19.1792,77.3224,OpenStreetMap,3 10
+Workshop Corner,North Nanded,Junction of Vazirabad Road and Bhagya Nagar Road,19.1804,77.3043,OpenStreetMap,4 8 9 9N
+Jangamwadi,North Nanded,Jangamwadi municipal hospital on Malegaon Road,19.1812,77.3028,OpenStreetMap,14
+Raj Corner,North Nanded,"Raj Corner, opposite Shri Shivaji High School",19.1839,77.305,OpenStreetMap,4 8 9 9N 15
+Taroda Naka,North Nanded,"Taroda Naka, where Purna Road meets Malegaon Road",19.1846,77.2999,OpenStreetMap,4 8 9N 14 15
+Malegaon Road,North Nanded,Malegaon Road at Sarpanch Nagar,19.1923,77.2972,OpenStreetMap,8 14
+Chaitanya Nagar,North Nanded,Chaitanya Nagar road near the Sai Baba temple,19.185,77.3102,OpenStreetMap,9 15
+Balaji Nagar,North Nanded,Balaji Nagar on the Taroda back road,19.1915,77.309,OpenStreetMap,9
+Sangvi,North Nanded,Sangvi Road (NH61) near Kendriya Vidyalaya,19.1841,77.3168,OpenStreetMap,15
+Ganesh Nagar,West Nanded,Ganesh Nagar road,19.1684,77.2983,OpenStreetMap,11
+Yeshwant Nagar,West Nanded,"Yeshwant Nagar, near Nanded Agricultural College",19.1726,77.296,OpenStreetMap,11
+Pharande Nagar,West Nanded,Pharande Nagar on Pawadewadi Road,19.1796,77.2881,OpenStreetMap,11 15
+Wadi Bk,West Nanded,Wadi Budruk village,19.1842,77.2708,OpenStreetMap,11 15
+Chhatrapati Chowk,West Nanded,Chhatrapati Chowk on Purna Road,19.1858,77.292,OpenStreetMap,15
+Kautha,New Nanded,"Kautha chowk, south of the Govardhan Ghat bridge",19.1417,77.3069,OpenStreetMap,1 4 7N 13 16
+Navi Kautha,New Nanded,"MHADA Colony, Navi Kautha",19.1352,77.3036,OpenStreetMap,1 4
+Wasarni,New Nanded,"Wasarni, Kautha",19.133,77.322,OpenStreetMap,2 16
+Latur Phata,New Nanded,Junction of the Latur highway (NH361) and the CIDCO road,19.13,77.327,approximate,2 5 7N 16
+HUDCO,New Nanded,"HUDCO colony, New Nanded",19.12,77.327,approximate,2 5 7N 16
+CIDCO,New Nanded,"CIDCO colony, New Nanded (Waghala)",19.1108,77.3254,OpenStreetMap,2 5 7N 16
+SGGS Institute,Vishnupuri,SGGS Institute of Engineering and Technology main gate,19.1126,77.2923,OpenStreetMap,1 4 5 13
+Medical College Vishnupuri,Vishnupuri,Dr. Shankarrao Chavan Government Medical College and Hospital,19.1114,77.2904,OpenStreetMap,1 4 5
+Vishnupuri,Vishnupuri,"Vishnupuri village, near the rural hospital",19.1093,77.2872,OpenStreetMap,1 4 5 13
+SRTM University,Vishnupuri,Swami Ramanand Teerth Marathwada University main gate,19.1043,77.2819,approximate,4 13
+Wajegaon,Outskirts,Wajegaon village on the Degloor road,19.1428,77.3491,approximate,12
+Tuppa,Outskirts,"Tuppa road, off the Nanded - Narsi highway",19.1026,77.3524,OpenStreetMap,16
